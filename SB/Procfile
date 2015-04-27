@@ -1,0 +1,1 @@
+web: gunicorn SB.wsgi --log-file -
